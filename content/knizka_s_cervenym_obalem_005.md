@@ -3,12 +3,12 @@ title: ''
 contentType: prose
 ---
 
-PŘEDMLUVA 
+**PŘEDMLUVA** 
 
-… ten čas, co se vleče,  
+_… ten čas, co se vleče,  
 ty sny a to čekání,  
 jistota, že jsem v bezpečí,  
 jistota, že jsem nejhezčí,  
-ta odvaha k tolika láskám…
+ta odvaha k tolika láskám…_
 
-– ale babičko, vždyť je máte na nose!
+_– ale babičko, vždyť je máte na nose!_

@@ -3,11 +3,9 @@ title: Miniromán
 contentType: prose
 ---
 
-_Příroda nám klade do cesty naši tupost jako past._
+> Příroda nám klade do cesty naši tupost jako past.
 
 (G. Greene)
-
-  
 
 Když se táta s mámou potkali, řekli si, to je doba, co jsme se neviděli, co pořád děláš. A máma řekla, budu se asi muset vdávat. A táta řekl, proč muset a proč asi, a máma řekla, muset, protože nechci, a asi, protože to asi udělám. A táta řekl, manželství je překonaná instituce, pojď se mnou do kina. A máma řekla, seš moc hodnej, ale nemám čas. Tak šli.
 

@@ -3,11 +3,9 @@ title: Začátky
 contentType: prose
 ---
 
-_Každá situace má smysl, jen ho najít._
+> Každá situace má smysl, jen ho najít.
 
 (B. Spinoza)
-
-  
 
 Hele a budeme si psát, poď si slíbit, že si budeme psát.
 

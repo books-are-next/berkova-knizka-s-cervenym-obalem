@@ -3,14 +3,12 @@ title: "Pohádka o\_šťastném konci"
 contentType: prose
 ---
 
-_Maugham se zasměje. Pak mi dává nejcennější  
-radu, jakou může mladý autor dostat:  
-„Na konci tázací věty dávejte vždy otazník.  
-Nevěřil byste, jak je to účinné.“_
+> Maugham se zasměje. Pak mi dává nejcennější  
+> radu, jakou může mladý autor dostat:  
+> „Na konci tázací věty dávejte vždy otazník.  
+> Nevěřil byste, jak je to účinné.“
 
 (W. Allen)
-
-  
 
 Byla jednou jedna Holčička, a ta žila v malé chaloupce se svou babičkou. Jedly, spaly, hovadům poklízely a dobře by se byly měly, nebýt té jedné věci: Holčička byla posedlá představou, že musí něco sdělit lidstvu; toužila napsat knihu s červeným obalem. A tak psala a psala a psala; psala příběhy o chudých, ale hodných slečnách, co přeberou ženicha slečnám zlým a bohatým, psala o moudrých stařenkách s bílou loktuškou na hlavě (když si byla zjistila, že se loktuška neváže v pase), psala o statečných chlapech s mozolnatýma dlaněma, co pijou kafe z otlučených hrnků bez ucha a dlouze a temně mlčí – psala o všem, o čem četla. Vyprdni se na to, říkávala jí babička, když vidlemi přehazovala stohy papírů v její komůrce, ale Holčička psala a psala, a když toho měla plnou nůši, nasedla na moped a pílila do Města.
 

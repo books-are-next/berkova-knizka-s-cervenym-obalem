@@ -3,13 +3,11 @@ title: Středa
 contentType: prose
 ---
 
-_Ostatně uvidíte, jak to skončí. Zvuky se vrátí  
-do varhan a budoucnost zmizí v pochvě minula  
-tak jako doposud vždycky._
+> Ostatně uvidíte, jak to skončí. Zvuky se vrátí  
+> do varhan a budoucnost zmizí v pochvě minula  
+> tak jako doposud vždycky.
 
 (H. Michaux)
-
-  
 
 Probudí se na tvrdé posteli bez polštáře; naznak a s rukama podél se bude dívat na bílý strop, na mouchu u lampy, na mělké štuky anebo jenom tak; bude bdít bez pohybu. Kdyby mu bylo dvanáct, našel by své ruce zpocené pod dekou, ale bude mu více než čtyřikrát dvanáct let pro tuto chvíli, kdy otevře oči
 

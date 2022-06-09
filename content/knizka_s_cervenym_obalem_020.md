@@ -3,14 +3,12 @@ title: "Tedy o\_lásce"
 contentType: prose
 ---
 
-_Střelený pláče jelínek  
-a živý, ten si výská;  
-ten líže med, ten pelyněk  
-a někdo kudlu píská_
+> Střelený pláče jelínek  
+> a živý, ten si výská;  
+> ten líže med, ten pelyněk  
+> a někdo kudlu píská
 
 (W. Shakespeare)
-
-  
 
 – – – zas jsem se ostříhala na půl sirky
 

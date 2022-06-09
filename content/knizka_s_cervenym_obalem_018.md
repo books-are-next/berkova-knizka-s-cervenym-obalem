@@ -3,11 +3,9 @@ title: Carpe diem
 contentType: prose
 ---
 
-_Zemře smrtí den?_
+> Zemře smrtí den?
 
 (J. Navrátil)
-
-  
 
 Plesk bosých nohou na dně prázdné kašny a bití zvonu odněkud a skřípění kamínků na cestě, jak se pod nohama rozestupují: lázeň­ští hosté se po nich scházejí, sedají do lavic, potichu hovoří, kašlou;
 
@@ -38,8 +36,6 @@ suchý muž vystoupil na pódium a rovná noty; bere je, pokládá a dlouze ro
 suchý muž zatím obešel všechny stojany, teď už je před pultem dirigenta: bere partituru, zavírá ji, kolmo jí poklepal na pult, pokládá ji a zase otvírá, pravou nohou už nakročil na stupeň, (noty jsou srovnány, hráči se vracejí, přestávka končí) suchý muž otálí, oběma nohama už stojí na stupínku a bere taktovku, (hráči jsou na místech, přichází dirigent) suchý muž poklepal taktovkou o pult a vztáhl ruce: zvolna je spouští a zády k orchestru se vteřinu dívá do plného hlediště, na lázeňské publikum, za poslední řadu, kde stojí ti, na něž nezbylo místo, na odcházející dvojici, co kucká smíchem, za ní jsou stromy a kostel z červených cihel. Dirigent už míjí prvního houslistu, suchý muž pomalu pokládá taktovku; vrací se dolů.
 
 Orchestr hraje směs z Polské krve: žlutovlasá holčička v bílých punčochách s černými koleny (klekla si do bláta, dostala na zadek) utíká podél pódia za dirigentovými zády (pravou ruku má zdviženou a levou obrací list) kolem suchého muže (hořící sirkou zdraví někoho v publiku) až ke stařence s nemocnou dcerou: zastavila se. Veliká dívka hýkla, klátivě se sklání, holčička couvá, stařenka šeptla, mladík s knírem se dívá do země. Přibíhá žena a bere své dítě za ruku, snažíc se pohledem nezavadit o tu druhou matku, která své dítě šeptem uklidňuje, snažíc se pohledem nezavadit o tu druhou matku, která své dítě rychle odvádí. Mladík s knírem si čistí brýle, suchý muž se dívá před sebe, orchestr hraje Stříbropěnnou Vltavu.
-
-  
 
 Suchý muž kouří a vzpřímeně jde, zdravím vás, příteli! řekl a široce pokynul, brej den, pane profesor, řekl ten naproti, tak co, dohráli?
 
@@ -139,7 +135,7 @@ Napila se kávy, položila prsty na klávesnici psacího stroje a vzdychla. Pod
 
 Nu vidím, že tady život kypí, co se krmení dotýče, tak se samozřejmě omlouvám, ježto jsem naprosto bez potřeb, ale milerád vám udělám společnost, bude-li zájem, řekl pan profesor. Matička zklamaně zvedla obočí a zklamaným hlasem zklamaně řekla, ale jak to? jak to, že nebudeš jíst? když jsi říkal, že budeš jíst.
 
-Ale matičko. Já jsem přece neříkal, že budu jíst. Řekl pan profesor měkce, vlídně a s láskou.
+Ale matičko. Já jsem přece **neříkal**, že budu jíst. Řekl pan profesor měkce, vlídně a s láskou.
 
 Říkal jsi, že budeš jíst. Uzavřela matička.
 
@@ -149,7 +145,7 @@ No – to se ti muselo něco zdát, řekl pan profesor zvolna, já jsem totiž 
 
 Milá dcero, vzdychl pan profesor a milá dcera se na něj podívala, tady máš další příklad lidské nedokonalosti: lidé nejsou zlí, jsou jenom více či méně nedokonalí, a tak i naše matička to samozřejmě myslí dobře, (zvýšil hlas) ona všechno myslí dobře, ona vnáší do života svár, zmatek, nesoulad (no počkej, počkej, já jenom řikám, žes řikal, řekla) a ne-po-cho-pe-ní, nepředal jí slovo pan profesor, s těmi nejlepšími úmysly. (Dcera se dívala na špičku své boty.)
 
-I kdybych byl býval řekl, že přijdu na oběd, – což jsem neřekl – artikuloval pečlivě pan profesor – byla by tím bývala míněna doba oběda, a tudíž nemohlo být z mé strany ani zmínky! O nějakém jídle.
+I kdybych byl býval řekl, že přijdu na oběd, – což jsem neřekl – artikuloval pečlivě pan profesor – byla by tím bývala míněna **doba** oběda, a tudíž nemohlo být z mé strany ani zmínky! O nějakém jídle.
 
 Říkals, že přijdeš na oběd a budeš jíst (a budu jíst!!! zasmál se pan profesor vysokým smíchem), a když už si to nepamatuješ, taks to asi zapomněl. Uzavřela matička.
 
@@ -161,7 +157,7 @@ Nikoliv, to jsem neříkal! Protože nebudu jíst! Děkuji nechci! Děkuji za mi
 
 Žijeme v přechodné době, řekla matička, zavřela vodu, sundala zástěru a utřela si do ní ruce, ženám bylo přiznáno právo na vzdělání, ale muži k tomu ještě nedorostli. Musí se s ním prostě jednat jako s nemocným, řekla, nabídla dceři a zapálila si.
 
-V profesorově pracovně nikdo nebyl. Opravdu, vůbec nikdo tam nebyl, tím méně za dveřmi. Kdybyste snad měli dojem, že v doslechu někdo je, hrubě byste se mýlili. Je tam čirou náhodou. Má tam prostě nějakou práci. Má totiž pořád nějakou práci. Někdo tu totiž pracovat musí.
+V profesorově pracovně nikdo nebyl. Opravdu, vůbec nikdo tam nebyl, tím méně za dveřmi. Kdybyste snad měli dojem, že v doslechu někdo je, hrubě byste se mýlili. Je tam čirou náhodou. Má tam prostě nějakou práci. Má totiž **pořád** nějakou práci. **Někdo** tu totiž pracovat **musí**.
 
 A tak otci položila na stůl vzkaz od pana Vrány a pan profesor jej zvedl, pak zvedl obočí a potom sluchátko: zdravím tě, příteli! Mé ženy mi právě sdělily… ano. Áno, ano, to zajisté chápu, jenže… já rozumím, jenže… ale ovšem! jenže vše se dá zařídit, mé ženy s radostí vypomohou a… áha. Jistě. Pochopitelně. Ano. To ovšem mění situaci, takže si smluvíme – dobře. Jistě. Takže já zavolám – ty zavoláš. Skoro pořád, kdybys moment počkal, podíval bych se – dóbře dobře. Taky možnost. Ano. Ale nikoliv! Není třeba se omlouvat! Samozřejmě! Tak na brzkou shledanou!
 

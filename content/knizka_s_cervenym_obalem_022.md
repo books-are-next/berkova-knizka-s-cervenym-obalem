@@ -3,12 +3,10 @@ title: Veselka
 contentType: prose
 ---
 
-_Podivné záminky našich cest jsou tanečními  
-kroky samotného Boha._
+> Podivné záminky našich cest jsou tanečními  
+> kroky samotného Boha.
 
 (K. Vonnegut jr.)
-
-  
 
 – – a než se panna nevěsta vrátí, předčítá stařenka jejímu synovi z černé kroniky: „zdivočelý Pražák plení zahrádky.“
 
@@ -104,10 +102,10 @@ a teta Blažena třese svým mužem: tak bav se, proboha! buď spontánní! sly
 
 – – a zatím venku běhají špinavé děti hostů a skandují jasnými hlásky barbarské rozpočítadlo:
 
-> apačuka-fundemuka!  
-> fundekávy-kávyčuka!  
-> ap-čuk-funde-muk  
-> funde-kávy-kávy-čuk!
+_apačuka-fundemuka!  
+fundekávy-kávyčuka!  
+ap-čuk-funde-muk  
+funde-kávy-kávy-čuk!_
 
 – a zatím v koupelně sedí na vaně stařenka s řídkými bílými vlásky, v ruce láhev slivovice – a dívá se před sebe velkýma tázavýma očima –
 

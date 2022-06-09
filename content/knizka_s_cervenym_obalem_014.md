@@ -3,12 +3,10 @@ title: "O\_malé bílé cedulce"
 contentType: prose
 ---
 
-_Ještě ničeho nechápaje, ale již chladna, pohlédl  
-Alexandr Semjonovič vzhůru._
+> Ještě ničeho nechápaje, ale již chladna, pohlédl  
+> Alexandr Semjonovič vzhůru.
 
 (A. P. Čechov)
-
-  
 
 Nejdřív jsem viděla ceduli PŘEJDI, a tak jsem přešla. Pak jsem nelámala větve, nedotýkala se ani drátů na zem spadlých a chránila socialistický majetek, majetek nás všech. Potom jsem udržovala čistotu, uvolnila bezpečnostní pás a nevykláněla se z oken. A pak už skoro nebylo do čeho píchnout, tak jsem chvíli nekouřila, urychlila nástup, použila zadních dveří a chystala se asi dvacet minut nepromluvit za jízdy s řidičem. To dělám ráda, nemluvit za jízdy s řidičem: často za ním i hodinu postávám a příkladně s ním nemluvím, abych se zavděčila. Tak jsem tam za ním stála, když jsem ji uviděla, tu malou bílou cedulku: MLADŠÍ UVOLNĚTE MÍSTO STARŠÍMU.
 

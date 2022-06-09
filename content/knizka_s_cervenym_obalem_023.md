@@ -3,12 +3,10 @@ title: Funus
 contentType: prose
 ---
 
-_Na hřbitovech leží plno lidí,  
-bez nichž svět nemohl být!_
+> Na hřbitovech leží plno lidí,  
+> bez nichž svět nemohl být!
 
 (H. Böll)
-
-  
 
 – – – to je zvláštní, podivil se člověk, jeden ani pořádně nezačal – a už aby končil, protože je mrtvej…
 

@@ -3,12 +3,10 @@ title: "Jeden z\_podvečerů"
 contentType: prose
 ---
 
-_Bude líp, jen se toho musíme dožít,  
-šetři silami, bratříčku!_
+> Bude líp, jen se toho musíme dožít,  
+> šetři silami, bratříčku!
 
 (R. Kipling)
-
-  
 
 Já vím, že neexistuješ, Roberte, nech mě být.
 

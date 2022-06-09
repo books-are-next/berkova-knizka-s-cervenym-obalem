@@ -3,12 +3,10 @@ title: Kdybytí
 contentType: prose
 ---
 
-_Pozorují nás včely? My je, to se rozumí,  
-už dávno pozorujeme._
+> Pozorují nás včely? My je, to se rozumí,  
+> už dávno pozorujeme.
 
 (W. Saroyan)
-
-  
 
 Vykoupala jsem se. Navoněla jsem se. Vytrhala jsem si obočí a nakreslila nové. Vytrhla jsem si řasy a nalepila nové. A pak jsem tam stála, po zuby nahá, a čekala čekalala čekala – a on přišel a já měla takovou radost, že jsem oblítla lampu a sedla mu na rameno: nemáš hlad? povídám, nemáš žízeň? nepotřebuješ podrbat na zádech?
 
