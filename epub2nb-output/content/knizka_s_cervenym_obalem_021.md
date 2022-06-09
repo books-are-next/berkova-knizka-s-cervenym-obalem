@@ -3,15 +3,13 @@ title: Pentameron
 contentType: prose
 ---
 
-_Více než kdy před tím v dějinách stojí dnes lidstvo  
-na křižovatce. Jedna cesta vede k zoufalství  
-a naprosté beznaději. Druhá k úplnému vyhynutí.  
-Doufejme, že budeme dost moudří  
-a vybereme si správně._
+> Více než kdy před tím v dějinách stojí dnes lidstvo  
+> na křižovatce. Jedna cesta vede k zoufalství  
+> a naprosté beznaději. Druhá k úplnému vyhynutí.  
+> Doufejme, že budeme dost moudří  
+> a vybereme si správně.
 
 (W. Allen)
-
-  
 
 Cítím se lépe. Sladím umělými sladidly, platím umělými platidly a je mi lépe. Den ze dne je mi lépe a lépe. Jen dobře mi pořád není.
 
@@ -42,8 +40,6 @@ Já na to taky nechci koukat, řekla Míša nymfomanka.
 Náhodou, na Kubánce mi nešahejte, řekl Píďa.
 
 ## Příběh první
-
-  
 
 Tady teď dělá spousta Kubánců, viď, povídá Píďa.
 
@@ -85,8 +81,6 @@ Já měl kamaráda, povídá krásnej Uchytil, co před náma tají svoji holku,
 
 ## Příběh druhý
 
-  
-
 On si třeba stoupnul do fronty v drogérii a přes hlavy těch stařenek zařval k pokladně: máte prosim vás ty prezervatývy s kachničkama?! – A jednou štípal dříví a kolem něj lítaly vosy. Že měl ruce plný, tak jim jenom nadával, ale pak mu jedna sedla na rameno – a on, jak ji chtěl hlavou shodit, tak si ji vmáčknul do ucha. To ho naštvalo, tak tu druhou, co si mu sedla na stehno, vší silou praštil. Jenomže zapomněl, že má v ruce sekyru. Následkem čehož dostal velorex.
 
 Když slyšim, jak se řehtáš, tak tě nechci vidět nasranou, řekl mi Huptych.
@@ -96,8 +90,6 @@ Když slyšim, jak se řehtáš, tak tě nechci vidět nasranou, řekl mi Huptyc
 Já jednou znala kluka, řekla jsem
 
 ## Příběh třetí
-
-  
 
 Tomáš se jmenoval. A ten Tomáš jednou s kamarádem močil před hospodou, a jak tam tak stáli a dívali se do krajiny, tak se vsadili, kdo má hysteričtější holku. A najednou z tý hospody vyběhla Tomášova Jája, vrazila mu z každý strany facku a zase zaběhla. A tak Tomáš vyhrál stovku.
 
@@ -122,8 +114,6 @@ Tak nic, řekl.
 Já měl jednou noční, povídá Huptych,
 
 ## Příběh čtvrtý
-
-  
 
 a přišel ke mně pacient, bílej jak křída, a celej se třás.
 
@@ -177,8 +167,6 @@ Já jednou potkala známýho, povídá Míša nymfomanka
 
 ## Příběh pátý
 
-  
-
 po děsně dlouhý době. Já o něm jenom slyšela, že se má dobře. Proklatě setsakramentsky až moc dobře že se má. A jak ho vidim, tak se k němu hrnu a volám: ahoj! On nejdřív, že nic, pak mu to asi bylo samotnýmu blbý, tak povídá taky: ahoj. A já povídám: jak se máš? A on na to: ále, to víš… A já řekla: no – já vim… A on se na mě zblízka podíval a zasyčel: neser neser! – a šel pryč.
 
 Dokud nás nějaká větší suma nerozdělí! volá Píďa. Na nás je krásný, že jsme jedni z nejstarších mladých začínajících autorů ve střední Evropě, řekla jsem –
@@ -205,4 +193,4 @@ Hm, řekla jsem.
 
 Co k tomu taky říct.
 
-(in memoriam Zuzany Trojanové)
+_(in memoriam Zuzany Trojanové)_

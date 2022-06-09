@@ -3,11 +3,9 @@ title: Pavučina
 contentType: prose
 ---
 
-_Ulovená ryba myslí na vodu, jak jen může._
+> Ulovená ryba myslí na vodu, jak jen může.
 
 (H. Michaux)
-
-  
 
 (Krátké mokré vlasy. Slámové vlasy. Škubnutí svalu pod hnědou kůží.)
 
@@ -241,4 +239,4 @@ Dito!!! Dito! to přece, to nejde, to nemůžeme, jen tak, Dito, já tě hrozně
 
 Ne, nemyslela.
 
-(DA CAPO AL FINE)
+> (DA CAPO AL FINE)

@@ -3,14 +3,12 @@ title: Velké šuby-duby
 contentType: prose
 ---
 
-_Často se stává, že se vrhnu vpřed jako moře  
-na písečný břeh. Jenomže ještě nevím, co pak.  
-Vrhnu se vpřed, vrátím se a znovu  
-se vrhnu vpřed._
+> Často se stává, že se vrhnu vpřed jako moře  
+> na písečný břeh. Jenomže ještě nevím, co pak.  
+> Vrhnu se vpřed, vrátím se a znovu  
+> se vrhnu vpřed.
 
 (H. Michaux)
-
-  
 
 Holky já vypadám strašně, ’sim tě, ’ bych měla říkat já, ’divej ty vlasy, sedíme tu jak slepice na hřadě, fakt jak slepice, to tys tak hnala, tak poďte něco dělat, helehede Undatra! žová!!! Počkej, až ti bude stopět, dobrý večer.
 

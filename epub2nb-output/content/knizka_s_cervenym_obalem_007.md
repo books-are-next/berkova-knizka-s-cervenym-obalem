@@ -3,13 +3,11 @@ title: Milostná
 contentType: prose
 ---
 
-_Vyprávěl jsem tento příběh Beethovenovi,  
-aniž jsem tušil, že už ohluchl, a on se usmál  
-a přikývl a řekl: „Jasně.“_
+> Vyprávěl jsem tento příběh Beethovenovi,  
+> aniž jsem tušil, že už ohluchl, a on se usmál  
+> a přikývl a řekl: „Jasně.“
 
 (W. Allen)
-
-  
 
 „Pojď, Frantíku! Křikl Tonda v houfu dětí, které se smíchem vyběhly ze školy, že nebudeš dřív u támhleté staré jabloně, co stojí u družstevních vrat? Vsaďme se! Křikl Frantík – Frantík,“ dočetla Bartesková a klesla hlasem. Řanda mi poslal papírek: Co to vysí na tabuli za ptáka? Na tabuli vysí za ptáka vorel. Pošli to dál. Připsala jsem, Homolka je vůl, a šťouchla Barteskovou. „Ale to už dva nerozluční přátelé běželi přes náves, jen se za nimi prášilo,“ četla Bartesková, otočila se, převzala papírek a dostala trest. Potom jsem četla já: „Copak, hoši, snad někde nehoří? Smál se dobrácky hřmotný předseda,“ a Bartesková mi podala papírek: Bacha, Pinďa, leze za tebou mamut!
 

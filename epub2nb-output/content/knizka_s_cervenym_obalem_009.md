@@ -3,14 +3,12 @@ title: Bubi-blues
 contentType: prose
 ---
 
-_Buď se mnou, nebo umřu.  
-Ty jsi zamoučená  
-a moje tváře jsou pomazány sazemi,  
-ale buď se mnou, ty, nebo umřu a bude mi smutno._
+> Buď se mnou, nebo umřu.  
+> Ty jsi zamoučená  
+> a moje tváře jsou pomazány sazemi,  
+> ale buď se mnou, ty, nebo umřu a bude mi smutno.
 
 (I. Wernisch)
-
-  
 
 „Milý příteli – přítelkyně!
 

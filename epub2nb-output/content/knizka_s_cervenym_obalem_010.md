@@ -3,11 +3,9 @@ title: Nazdar Ančo!
 contentType: prose
 ---
 
-_Neklesejte na duchnu!_
+> Neklesejte na duchnu!
 
 (M. Huptych)
-
-  
 
 Ahój! volala Jana.
 
