@@ -3,6 +3,8 @@ title: Carpe diem
 contentType: prose
 ---
 
+<section>
+
 > Zemře smrtí den?
 
 (J. Navrátil)
@@ -37,6 +39,10 @@ suchý muž zatím obešel všechny stojany, teď už je před pultem dirigenta:
 
 Orchestr hraje směs z Polské krve: žlutovlasá holčička v bílých punčochách s černými koleny (klekla si do bláta, dostala na zadek) utíká podél pódia za dirigentovými zády (pravou ruku má zdviženou a levou obrací list) kolem suchého muže (hořící sirkou zdraví někoho v publiku) až ke stařence s nemocnou dcerou: zastavila se. Veliká dívka hýkla, klátivě se sklání, holčička couvá, stařenka šeptla, mladík s knírem se dívá do země. Přibíhá žena a bere své dítě za ruku, snažíc se pohledem nezavadit o tu druhou matku, která své dítě šeptem uklidňuje, snažíc se pohledem nezavadit o tu druhou matku, která své dítě rychle odvádí. Mladík s knírem si čistí brýle, suchý muž se dívá před sebe, orchestr hraje Stříbropěnnou Vltavu.
 
+</section>
+
+<section>
+
 Suchý muž kouří a vzpřímeně jde, zdravím vás, příteli! řekl a široce pokynul, brej den, pane profesor, řekl ten naproti, tak co, dohráli?
 
 Tak, tak, řekl pan profesor a dvakrát pomalu přikývl, a ježto má povinnost poskoka skončila, jdu do své osvěžovny. Já říkám výčepům osvěžovny a restauracím obnovy, víte?, já si tak hraju, řekl a velkými řídkými zuby se usmál. No, každej sme nějakej, řekl ten druhý a drbl se za krkem.
@@ -52,6 +58,10 @@ Ale samozřejmě že ne! zvolal pan profesor: čistý vzduch! (nasál ho nosem) 
 Alenojo, řekl pan Vrána a drbl se za krkem, jenomže – alenojo. Přeložíme to tedy na jindy? řekl pan profesor a sáhl do saka, nené, toné, tak dobrý, tak jo, řekl pan Vrána a šel. Na shledanou zítra u Šolců v devět nula nula! volal za ním pan profesor a potom šel dál rytmickým krokem a rozmáchle zdravil a oni říkali, dobrý den, pane profesore, a on šel a trochu se usmíval.
 
 Ale muž s šedými vlasy na pozdrav mlčel: ten muž si před něj stoupl a zblízka mu řekl, tak co? taky na tebe došlo? a krátce se uchechtnul. Pan profesor vdechl, vzal muže za rukáv a chce něco říct, ale muž se mu vytrhl: já ti to přeju! jéžiš, jak já ti to přeju! zasmál se štěkavě a šel od něj pryč, žádnýmu sem to tak nepřál jak tobě, ty pacholku! volal a pan profesor se za ním díval.
+
+</section>
+
+<section>
 
 Ve výčepu se u stropu válel kouř a pára z ovarů, párků a sekané. Stál mezi dveřmi, trochu se uklonil a řekl: přeji vám dobrý den. Dobrej, řekla babka v mastné zástěře a rukou shrnula z talířku do hrnce studenou sekanou v louži ztuhlého loje.
 
@@ -77,6 +87,10 @@ Dovolí? Dovolí babce s dovolením sebrat půllitry? Ale samo, jí dovolej vš
 
 Ale naopak! Panu profesorovi to vůbec nevadí, on s potěšením vnímá horký tep života, a co by už mělo patřit k jeho plnosti, když ne tohle? Nemá pravdu? Alenojo, to sou jenom takový srandičky, nic ve zlym, tadyhle matka se taky nezlobí, žejo? anebo jo? Co? Zlobí se? Matka by se musela zvencnout, kdyby se měla zlobit na blbý, a ať koukaj dopít, ať to může odnýst. A pak profesor s úsměvem kývá a dopíjí třetí plzeň.
 
+</section>
+
+<section>
+
 Zamkla maso do hrnce. Zalila kávu, dala ji na stůl a přisedla k ní. Vstala, hledala – našla krabičku a znovu si sedla. Pak vstala pro popelník. A potom pro sirky.
 
 „… a konečně si našla chviličku v tom každodenním shonu, kdy si mohla odpočinout, na minutku posedět a vypít trochu čaje ze svého hrnečku po mamince. Kdyby tady tak byla maminka! Už léta odpočívá v zemi, ale jak často na ni vzpomíná a v duchu se jí omlouvá, že nechápala těžký úděl ženy! (škrt) Jak často si na ni vzpomene, když nyní chápe těžký úděl ženy! Cítila se strašně unavená. Musí se vzchopit. Musí se překonat. Musí být statečná…“
@@ -87,6 +101,10 @@ Musí vytřít chodbu. Nakousla-trhla-vyplivla-sloupla z krabičky celofán. U�
 
 Nehty palce a ukazováku cigaretu vytáhla: nevytáhla – špendlíkem: filtr se natrhl. Odloupla slepený bok a rozevřela, rozložila, zlikvidovala krabičku a cigarety vysypala na stůl. Telefon: Prosím? Ne, ještě ne. Ano. Ano. Vyřídí. Prosím. Ušklíbla se, napsala „Vrána se omlouvá“, strčila papír za číselník a ušklíbla se.
 
+</section>
+
+<section>
+
 Pan profesor se usmíval, dlaní si podpíral bradu a viděl měkce: díval se na červený hrudník zrzavého v montérkách, na pěnu ve vousech toho s bradkou a na temné půlkruhy v podpaží pošťákovy košile, pak pomalu otočil hlavu a usmíval se na růžovou paní Irenku v oblaku bílé páry (pleskla kouřícím ovarem o studenou váhu, přimhouřila oči: ovar se chvěl) a na bledou tympanistku s aristokratickým obličejem (napíchla na vidličku nohu hnědého párku a polkla), usmíval se.
 
 Pak vešla: přísně se rozhlédla a šla k nim: myslela jsem si, že tady budeš, řekla a neopřela se o louži piva na stolku. Pánové, dovolte, abych vám představil opus jedna, řekl zvolna pan profesor, těší mě, řekla a všichni se usmáli.
@@ -96,6 +114,10 @@ Nu, milá dceruško, čímpak tě mohu uctít? řekl pan profesor a vzal ji za 
 Dcera poodstoupila, ale on kolem ní neprošel: nu, hoši, tady jsme bezmocní, (zvedl ruce, nechal je klesnout a udělal bezmocnost) zde lidská vůle nic nezmůže a nám opět nezbývá než se podrobit (schoulil hlavu mezi ramena a udělal podrobení). Nicméně! (napřímil se) není všem dnům konec a ještě se bohdá, jak říkaly naše babičky, anebo dáli příroda, jak zase říkáme my marxisté, ve zdraví shledáme. No – a já to vezmu zleva, řekl, natáhl ruku přes politý stůl a stiskl a potřásl, bylo mi s vámi dobře, řekl a stiskl a potřásl, ale život ve své tajemnosti nás staví před nejrůznější (stiskl) – moment, příteli. Přátelsky. Upřímně. Nic ve zlém. Nikoli takto (podržel v ruce nabídnuté konečky prstů toho s bradkou), nýbrž takto (vložil si tu dlaň do své – ten s bradkou zčervenal), takhle se podává ruka, (stiskl) ták, řekl a zeširoka a zdálky se usmál, tak se tu mívajte, jak umíte nejlíp, povinnost volá, řekl a všem ještě pokynul a prošel kolem dcery (stále tam čekala), la pardón, řekl pak ve dveřích pánovi s pivem a třemi rychlými drobnými krůčky mu rychle a drobně uskočil z cesty. A vyšli na ulici.
 
 Blbec, řekl ten s bradkou, a srká plzeň jak černý kafe. Dyť to máš fuk, řekl zrzavý v montérkách a pošťák mlčel.
+
+</section>
+
+<section>
 
 Nu, dceruško, takže jsi přijela. Takže jsi tady, řekl a srovnal si podle ní krok. Z toho soudím, že – ačkoliv, móment, jojo, tamhle je, hej, haló! příteli! zavolal, doběhl a chytil za rukáv toho člověka, zdravím tě, řekl, otočil si ho k sobě a uchopil, stiskl, potřásl, dovol, abych ti představil opus jedna (opus se uklonil) a tohle je Ferda (Jarda, řekl ten člověk) nebo Jarda, to už je výsada nás opotřebovaných mladíků, že se dozvídáme stále nové věci. Muži se totiž dělí na mladíky a opotřebované mladíky, tos věděl? (nevěděl, řekl Jarda) no tak to vidíš, i na prahu senility se člověk lecčemus přiučí, tak tohle je můj kamarád Ferda (Jarda, řekl Jarda) nebo Jarda, ale vas hajst jméno? Ruka ni noha (tati, poď už) ni jiná část, patřící k člověku – my ale musíme honem honem domů, jelikož a protože nás matička povolala, a tak honem honem spěcháme, aby se nechvěla o naše zdraví, neboť kvas čapí, neboli čas kvapí, říkal pan profesor a člověk Jarda se usmíval a říkal, no, nojo, dcera zatím udělala dva kroky dopředu, chvilku tam čekala, pak se zas vrátila zpátky: …totiž byl ve své osvěžovně popít chladivého nektaru, říkal zvolna pan profesor, a mé ženy se na mě proto hněvají (tati…), ale ženám už je to dáno, hrdlit se o každou maličkost – no vždyť už utíkám, řekl pan profesor, přiložil si pěsti k hrudníku a udělal utíkání, tak se měj, jak za dobré uznáš, příteli, řekl a uchopil, stiskl, potřásl, já spěchám spěchám, abych už tam byl! Ještě mu zamával a rozmazaně se usmál.
 
@@ -114,6 +136,10 @@ Pan profesor se zastavil a vztyčil prst: takto, milá dcero (milá dcera vzdyc
 (Ale…) Již dosti o tom.
 
 (Seš jim k smíchu, viděla jsem to) to ti budiž ukradeno, řekl pan profesor a dál šli mlčky.
+
+</section>
+
+<section>
 
 Napila se kávy, položila prsty na klávesnici psacího stroje a vzdychla. Podívala se ke stropu (nikdo tam nebyl) a zalistovala v knize: „Můj muž, pan Tull. Pan Tull, můj muž.“ Hm. Zamáčkla cigaretu a začala psát:
 
@@ -164,3 +190,5 @@ A tak otci položila na stůl vzkaz od pana Vrány a pan profesor jej zvedl, p
 Dívala se na otce, jakou má divně velikou hlavu, když je teď o dvacet kilo menší, jak mlaská přes falešné zuby, na které si ještě nezvykl, jakou má šedivou, unavenou tvář a vpadlé oči, dívala se, jak položil sluchátko, a chtěla říct: tati, proč tohle všechno děláš? tohle hubnutí a bratření s lidma, když se ti smějou?
 
 Jenže: věděla, že mu to nikdy neřekne – a tak odešla. Jenže: věděla, že mu to prostě _musí říct_ – a tak se vrátila. Jenže: zasklenými dveřmi otcovy pracovny viděla jen shrnuté nohavice, volně plandající kolem bledých, hubených lýtek, trčících vzhůru jako pestíky; pan profesor stál na hlavě.
+
+</section>

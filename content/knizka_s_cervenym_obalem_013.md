@@ -3,6 +3,8 @@ title: Pavučina
 contentType: prose
 ---
 
+<section>
+
 > Ulovená ryba myslí na vodu, jak jen může.
 
 (H. Michaux)
@@ -114,6 +116,10 @@ No, co mi řekneš? Víš co mi řekni? proč se mnou chodíš, to mi řekni.
 No, vysvětli mi to, buď tak hodná. (Dívá se na mě, na oblohu, na paní, co volá Románků! a zase na mě, nabral hrst písku, hodil ji do vzduchu a chytá na hřbet ruky.)
 
 Proč spolu lidi choděj? (řekla jsem. Chytil ten písek, dlouhý vzdech: a mrštil zrníčky o zem) no dobře (prohlíží si nehty) já už se teda na nic neptám (dívá se před sebe, jazykem přejel po horním rtu – ukázal na mě) ale jestli si teda myslíš, že vydržim všechno!!! (semkl rty do tenké čárky) kůrva!!! (pravou pěstí udeřil do písku, udělala se tam jamka) Já už toho mám plný zuby. Namouduši-plný-zuby. (vstal) To mi teda můžeš věřit. Pocaď. (sekl do vzduchu nad hlavou, přimhouřil oči, nadechl se, ukázal na mě. Pak zavrtěl hlavou, obrátil se a jde, jde vzpřímenou chůzí malých lidí, s hlavou, co staccato poskakuje, vypjal se v ramenou, jde pláží a křovím a stromy, zmizel.)
+
+</section>
+
+<section>
 
 Co to je? to je tvoje? a pučíš mi to?
 
@@ -240,3 +246,5 @@ Dito!!! Dito! to přece, to nejde, to nemůžeme, jen tak, Dito, já tě hrozně
 Ne, nemyslela.
 
 > (DA CAPO AL FINE)
+
+</section>

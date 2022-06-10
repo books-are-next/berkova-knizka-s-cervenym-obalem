@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Knížka s červeným obalem](https://search.mlp.cz/cz/titul/knizka-s-cervenym-obalem/2343457/#/dk=key-eq:3155901-amp:titul-eq:true&getPodobneTituly=deskriptory-eq:15125251-amp:key-eq:2343457) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 2003. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 6. 11. 2020.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

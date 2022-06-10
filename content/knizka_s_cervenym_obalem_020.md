@@ -3,6 +3,8 @@ title: "Tedy o\_lásce"
 contentType: prose
 ---
 
+<section>
+
 > Střelený pláče jelínek  
 > a živý, ten si výská;  
 > ten líže med, ten pelyněk  
@@ -15,6 +17,10 @@ contentType: prose
 a představuju si nás v posteli
 
 – ale moje děti se na písku už tolikrát oženily – – –
+
+</section>
+
+<section>
 
 Bylo to na trávě u vody. Spousta lidí se pekla na slunci a já koukala na stéblo, jak se líně kymácí, a potom na mouchu, jak cikcak oblítla papír, dosedla na něj a myla si nohy. Pak opsala ve vzduchu čtverec a vlítla mi do oka. Jauvejs, moucha, povídám.
 
@@ -71,3 +77,5 @@ cítila jsem její malou ruku neohrabaně kolem svých ramenou, cítila jsem, ja
 jak se propadám do spánku
 
 a jak mi dětské prsty zvedají víčko a hlásek povídá: maminko, neusni, ještě o tom Lukášovi…
+
+</section>

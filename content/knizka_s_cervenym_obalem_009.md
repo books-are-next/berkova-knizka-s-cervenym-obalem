@@ -3,6 +3,8 @@ title: Bubi-blues
 contentType: prose
 ---
 
+<section>
+
 > Buď se mnou, nebo umřu.  
 > Ty jsi zamoučená  
 > a moje tváře jsou pomazány sazemi,  
@@ -121,3 +123,5 @@ Ale to nic, řekla mi hubená paní, přijď se někdy podívat, Honzík bude r�
 Tak nashledanou, řekla jsem.
 
 Nashledanou, nashledanou, řekla mi hubená paní a zavřela dveře. Šla jsem domů kolem Bolavé Nohy, co pořád čekala, a jak foukal vítr, slzy mě studily za ušima.
+
+</section>

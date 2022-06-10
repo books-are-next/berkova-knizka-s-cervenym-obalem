@@ -3,6 +3,8 @@ title: Miniromán
 contentType: prose
 ---
 
+<section>
+
 > Příroda nám klade do cesty naši tupost jako past.
 
 (G. Greene)
@@ -42,3 +44,5 @@ A potom máma ležela v sále se zelenými kachlíčky a potila se a přiše
 A za dvě hodiny řekl jiný doktor, ještě – ták – výborně – máte dceru.
 
 Umyli mě, popsali a změřili a zvážili a ukázali mi mámu. A máma řekla, jé, ta je krásná, můžu si na ni sáhnout? Jmenuju se Dita.
+
+</section>

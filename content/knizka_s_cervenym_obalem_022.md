@@ -3,6 +3,8 @@ title: Veselka
 contentType: prose
 ---
 
+<section>
+
 > Podivné záminky našich cest jsou tanečními  
 > kroky samotného Boha.
 
@@ -90,6 +92,10 @@ a teta Blažena třese svým mužem: tak bav se, proboha! buď spontánní! sly
 
 – – a strýc Pido stojí na stole a křičí: jsem velký polucionář! jsem ředitel zeměkoule!!!
 
+</section>
+
+<section>
+
 – a zatím na zahradě soudruh z kraje pláče, že ho nikdo nemá rád – –
 
 – – a zatím v pokoji s dary stojí matička nevěsty a před velikým zrcadlem a pečlivě si prohlíží tu vlídnou, usměvavou paní, co je tak svěží na svůj věk – – a je tak zábavná a vtipná – –
@@ -102,12 +108,24 @@ a teta Blažena třese svým mužem: tak bav se, proboha! buď spontánní! sly
 
 – – a zatím venku běhají špinavé děti hostů a skandují jasnými hlásky barbarské rozpočítadlo:
 
+</section>
+
+<section>
+
 _apačuka-fundemuka!  
 fundekávy-kávyčuka!  
 ap-čuk-funde-muk  
 funde-kávy-kávy-čuk!_
 
+</section>
+
+<section>
+
 – a zatím v koupelně sedí na vaně stařenka s řídkými bílými vlásky, v ruce láhev slivovice – a dívá se před sebe velkýma tázavýma očima –
+
+</section>
+
+<section>
 
 a pak se rozlehl domem řev tety Blaženy, že přistihla svého muže, jak s mužolapkou tancuje – a hned je rámus a ryk a spílání, že se vetřela do společnosti, kam ji nikdo nepozval –
 
@@ -144,3 +162,5 @@ puká mé srdce a teskní má játra –
 a pláče má klikva, že je sama na světě –
 
 vyje všech devět bran mého těla – – –
+
+</section>
