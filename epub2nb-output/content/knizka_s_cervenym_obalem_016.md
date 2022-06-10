@@ -3,6 +3,8 @@ title: Ráno
 contentType: prose
 ---
 
+<section>
+
 > Ona zvláštní bláhovost člověka, který sám sobě  
 > dovoluje a chce věřit, že touží po pravdě, zatímco  
 > žádá od tohoto světa lásku.
@@ -10,6 +12,10 @@ contentType: prose
 (A. Camus)
 
 Prázdnou a strnulou ulicí šel zvolna kráčivec; nesl si tašku a hůl. V té tašce měl židli, tu hůl měl proti civilům, kteří na něj civěli v kruzích užších a užších, když si chtěl posedět. Kráčivec pomalu obcházel spící ježdíky, skrčené na malých parcelkách, obtažených bíle, a oni jej nechali projít. Pak skončilo svítání.
+
+</section>
+
+<section>
 
 Poď ke mně.
 
@@ -39,17 +45,41 @@ Kolik?
 
 Počítám do tří: jedna,
 
+</section>
+
+<section>
+
 Kráčivec se stále proplétal mezi potměšilými ježdíky (někteří dřímali už jenom lehce) opatrně kladl před sebe nejdřív jednu nohu a potom tu druhou, pečlivě drže směr proti pohybu Země –
+
+</section>
+
+<section>
 
 dvě,
 
+</section>
+
+<section>
+
 a to už vybíhali kvaltouni ze svých úkrytů a nalézaje každý svého ježdíka, skákali do nich a přiváděli je k vědomí: nutili je funět a vrčet a kýchat a vyrážet vpřed,
+
+</section>
+
+<section>
 
 tři!
 
 Jau!
 
+</section>
+
+<section>
+
 a rozzuření ježdíci se tlačili jeden za druhým a dva za třetím, předbíhali se a strkali a ňafali a kousali, hledíce dostat každý svého kvaltouna co nejdál před ostatní; kráčivec zůstal stát na šedém okraji necesty.
+
+</section>
+
+<section>
 
 Tohle si nezvykej, pusino.
 
@@ -65,7 +95,15 @@ Nedám.
 
 Naval ty klíče, sem řek!
 
+</section>
+
+<section>
+
 Ježdíků přibývalo, ti silnější uprostřed tlačili ty slabé ke kraji, ti pomalí strčili čenichy k sobě, zezadu na ně tlačili další, takže ti ve­předu nemohli zpět; kvaltouni, teď už docela bdělí, seděli strnule, zamčeni uvnitř svých ježdíků, tlačili tlačítka, páčili páky a nutili ježdíky ječet; kráčivec stál a věda, že musí dopředu, zkusmo zamával pažemi; jenomže to bylo dávno, co uměl vzlétnout. Tak zhluboka vdechl, pak zavřel oči a vykročil.
+
+</section>
+
+<section>
 
 Proč nejedeš třeba tramvají?
 
@@ -83,15 +121,31 @@ Jeď odtud tramvají. Prosím tě o to. Pak budu moct věřit, že mě máš r�
 
 Kráčivec dospěl doprostřed: rozložil židličku, sedl si na ni a díval se na stáda ježdíků, ženoucích se ve dvojstupech tam a ve dvojstupech zpátky; ti první teď zbrzdili, zvolnili, stáli; jeden, už starý, co se octl vepředu a dýchal jen stěží, už nemohl dál, ti za ním frkali, bručeli, stavěli se na zadní, ti nejblíž ho vztekle strkali a kousali do zadku –
 
+</section>
+
+<section>
+
 Tak měj rozum, no, dej mi ty klíče.
 
 Na. No vem si je, běž, co stojíš! Vlez do tý svý fiatky a dej si sprchu a kolínskou, no di, sakra, vypadni!
 
 Vyběhl, odemkl, nastartoval, vyjel, napřímil se v opěradle, teď už zas klidný, napravo letmo zahlédl kvaltouna klečet před ježdíkem, jenž právě zemřel.
 
+</section>
+
+<section>
+
 Kráčivec seděl uprostřed necesty a sbíral sílu; pak vstal. S povzdechem složil svou židli a dal si ji do tašky, pak stiskl rty a zas vykročil.
 
+</section>
+
+<section>
+
 On vnímal, jak rychlost příjemně stoupá, pak uviděl zácpu a zlostně mlaskl. Vyhnul se kráčivci: ťukl se do čela, zavrtěl hlavou a ještě se za ním otočil. Pak myslel na to, jak dojede domů a dá si sprchu a kávu a pak se uvidí.
+
+</section>
+
+<section>
 
 Zatelefonovala: už je tam prosím vás ten a ten?
 
@@ -100,3 +154,5 @@ Není a dneska nebude, řekli jí, od včerejška má náhradní volno.
 Kráčivec došel na druhý břeh: povedlo se mu to. I dneska se mu to povedlo.
 
 Šel dál. Nesl svou tašku se židlí a hůl proti civilům. Podíval se vzhůru, ano, půjde ještě tak hodinu a potom si zase sedne.
+
+</section>

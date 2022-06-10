@@ -3,6 +3,8 @@ title: Funus
 contentType: prose
 ---
 
+<section>
+
 > Na hřbitovech leží plno lidí,  
 > bez nichž svět nemohl být!
 
@@ -46,6 +48,10 @@ bývalí mocnáři, budoucí hadráři a strejci Příhodové –
 
 – ti všichni chtějí se poklonit vdovině žalu…
 
+</section>
+
+<section>
+
 Prastará prateta v domě smutku zatím vyprovodila posledního hosta a zavřela dveře. Čeká ji ještě dost práce: umýt a uklidit nádobí, nábytek a tělo nebožtíkovo: šaty i rakev se musí ještě dnes v pořádku vrátit půjčovně. Prastará prateta si uvázala zástěru, začala mrtvého pomalu svlékat a zpívá mu k tomu svou prastarou píseň:
 
 „narodil ses do úzkosti za plentou a umřel jsi do úzkosti za plentou, chlapče zlatý, žes neřekl, byla bych tě přišla aspoň podržet za ruku – co já tu teď sama, prastará prateta, s kůží jako škraloup…
@@ -62,6 +68,10 @@ Inu – – – řekla prateta.
 
 To ženská nikdy nepochopí, řekl muž.
 
+</section>
+
+<section>
+
 Pod okny zatím jedou alegorické vozy, živé to obrazy slavných chvil v životě lidském:
 
 na prvním žena zdvíhá do výše sádrové nemluvně, označuje je číslem a odnáší za plentu, aby se po chvíli vrátila, pozdvihla do výše sádrové nemluvně, označila je číslem a odnesla za plentu, a tak pořád znovu – a všude kolem znázorněny jsou první věci člověka: první ee do nočníčku – první třída – první poluce – první manželství; první polibek, facka, zoubek a úsměv – vše v sádře a pestrých barvách vyvedeno – uprostřed vozu pak vzpřímený mladý stromek v barvě modré, co kolmý start člověkův v barvě naděje –
@@ -70,7 +80,15 @@ na prvním žena zdvíhá do výše sádrové nemluvně, označuje je číslem a
 
 – na třetím voze pak jedou poslední věci člověka: prášky a brýle, medaile, trepky, suchary, diplomy, zuby a sebrané spisy, studený bylinný čaj, krabice fotografií a nové boty na jaro – vše v barvě popela, jímž všechno zemi se navrací – a holý strom uprostřed – –
 
+</section>
+
+<section>
+
 Prateta zatím pečlivě okartáčovala a složila šaty zemřelého a uložila je do rakve. Pak zabalila tělo do starého ubrusu a přehodila si je přes rameno. Máš ty ale ten svůj obal těžký, chlapče, příště nesmíš tak jíst, řekla a vyšla z domu. Musela oklikou, postranními chodníčky, aby nerušila slavnost.
+
+</section>
+
+<section>
 
 – a hlavní třídou již běží strakatí šašci a kejklíři, halasí řehtačky, frkačky, houkačky, baletky vystřelují barevné rachejtle a všechno se blýská a třpytí a všude je plno zpěvu a křiku a hluku a randálu: tu haleká jakýsi pěvec a do rytmu buší v plechový sud, tu ječí jiný a k tomu se na valchu doprovází; tito dva dělají, že spolu zápasí, jiní dva zase, že se mají rádi, tamten si rve vlasy a řve, že je sám, jiný volá: maminko!!! –
 
@@ -96,6 +114,10 @@ Obloha se zvolna zatáhla šedočernými mraky, ale nad obzorem ještě žhne n�
 
 Bude bouřka, řekla prateta, složila ranec a sedla si na něj. Ze země teď jdou zlý věci, poďte na měkký, řekla a udělala muži místo. Vyndala láhev: nic mi nejni, akorát bejvám utahaná. Kolikrát si ráno musim dát panáka.
 
+</section>
+
+<section>
+
 Bledá dívka v domě s chrliči se dívala z okna, dokud slavnostní průvod nezmizí za rohem, a pak na střechu protějšího domu: na inkoustově modrém nebi rudooranžově zářil cihlový komín. Omítka domu svítila žlutě a okenní skla měla kovově tvrdý, zrcadlový lesk. Bude bouřka.
 
 Dívka se vrátila nad skripta vědeckého katechismu:
@@ -119,6 +141,10 @@ Jenže jí se chce na slavnost.
 „Čili E=mc2.“
 
 Musí tam jít.
+
+</section>
+
+<section>
 
 Prateta s mužem dopili a vstali. Šedivá duchna mračen nad nimi se roztrhla a na obzoru dopadla v cárech na zem.
 
@@ -170,6 +196,10 @@ Ráda bych vám nějak pomohla, člověče, ale nevím jak, řekla prateta, slo�
 
 Tak to vidiš, Franto, zašeptal muž, furt si kecal – a teď seš v pytli a já sem eště tady.
 
+</section>
+
+<section>
+
 Na hřbitově byla už oslava v plném proudu: předsedkyně Svazu opuštěných žen přivítala novou členku, zazpíval sbor děvčat z Mariánské družiny a jako hlavní řečník vystoupil úhlavní nepřítel nebožtíkův; on vysoko ocenil vysoké ocenění, jehož se mu dostalo za práci Koloběh času v přírodě, a vyzdvihl hloubku svého žalu; závěrem velmi hezky zavzpomínal na chvíle, jichž nikdy nebylo, a ohlásil vyvrcholení celé slavnosti: Veliký Tanec Vdovy.
 
 Shromáždění ztichlo: vdova pomalu předstoupila a obešla kruh – prostor, v němž bude svůj příběh vyprávět – pak zavřela oči a pozvedla ruce – – zvolna je stydlivě spouští – ano: je malé děvčátko, docela naivní: bere cípky své sukničky a běží drobnými krůčky orosenou loukou – voní ke květinám – je jemná a křehká a celá, celičká ach, tak šťastna!
@@ -185,6 +215,10 @@ Shromáždění ztichlo: vdova pomalu předstoupila a obešla kruh – prostor
 „Výjevem dívčina podlehnutí končí se giocoso innocente (hravě, nevinně), a po kratičké pauze navazuje část druhá, jejíž dvě poloviny – allegro appassionato (živě, vášnivě) a andante affannato (zvolna znepokojeně) – přesvědčivě ilustrují hluboký vnitřní život nepochopené ženy a její samotu po boku sobeckého muže, který, vida jen a jenom svou práci, nechápe hluboký vnitřní život své nepochopené ženy. Závěrečné allegro sdegnoso (rychle, vzdorně) vrcholí ve strhujícím prestu furiosu (rychle, zuřivě) nad smrtí manželovou.“
 
 Komentátor si polohlasně odkašlal, upravil si kravatu a oddal se požitku.
+
+</section>
+
+<section>
 
 Prateta s mužem šli zatím pomalu zpátky. Muž říkal: ve druhý obecný nás učili, že čas je kvalita hmoty. Což tedy vlastně znamená, že jak nás ta hmota opouští, tak v ní ztrácíme i ten svuj čas. Nemáte páru, co života nám takhle uteče! Jenom ve vlasech, třeba! Já například mám skovaný všechny zuby. Měl sem i nehty, ale vona mi to vyhodila. Ale mám eště svuj dětskej talíř s plechovym hrnečkem – a ešus z vojny – a taky sádru, jak sem si tenkrát zlomil ten prst – taky se nechávám kvartálně fotit – abych to měl zmapovaný – ale víte, že to – nějak jakoby – furt neni vono?
 
@@ -242,17 +276,37 @@ Zhebni, Tlamiči, zhebni! zhebni, Tlamiči, zhebni!
 
 – – a profesor Tlamič-Sitting vůl si po večeři říhl a řekl, půjdu si lehnout, je mi nějak zle, musím se vyspat na ty spratky, na ty holomky, na tu sběř, co neví, že Bůh je láska…
 
+</section>
+
+<section>
+
 Když se unavená vdova vrátila domů, našla přede dveřmi pratetu sedět na rakvi.
 
 Copak, babi, řekla.
 
 A prateta se usmála divně a povídá: doma už jsem ti uklidila, ale klíč nemám, já ho asi omylem spolkla, popleta – taky cítíš ten vítr?
 
+</section>
+
+<section>
+
 a prateta u stánku řekla bledé dívce se skripty: já měla nejradši tyhle dva ve spreji: s vůní nemluvněte a s vůní sluněného prádla –
+
+</section>
+
+<section>
 
 a prateta na polní cestě řekla muži v helmě, tak už si z toho nic nedělejte, na světě jsou složitější věci, třeba vidle –
 
+</section>
+
+<section>
+
 a prateta na rakvi se omluvně usmála a řekla vdově, já jsem dneska z perníku –
+
+</section>
+
+<section>
 
 a prateta na polní cestě řekla muži, kampak to klesáte, člověče?
 
@@ -270,6 +324,10 @@ a prateta na polní cestě řekla muži, kampak to klesáte, člověče?
 
 a po dalším usnul a ráno do něj už nic nebylo…
 
+</section>
+
+<section>
+
 A dívka s chlapcem spolu šli někam pryč – a tam se objímali, hladili, tiskli k sobě, ochutnávali a shledávali lahodnými –
 
 – a říkali si miláčku –
@@ -277,3 +335,5 @@ A dívka s chlapcem spolu šli někam pryč – a tam se objímali, hladili,
 – a jarní jepice vířily kolem nich – a tehdy starý jepic řekl mladému jepici: jsem příliš – příliš stár – – – dobrá vůle mě opouští – ale ty máš ještě mnoho vteřin před sebou – tanči, chlapče, dokud je čas, v milostném tanci je smysl všech věcí, až padne poslední z nás, pak přijde konec a zima a tma –
 
 – a jepic, který netančí, zemře, aniž cokoliv pochopil…
+
+</section>

@@ -3,6 +3,8 @@ title: "Jeden z\_podvečerů"
 contentType: prose
 ---
 
+<section>
+
 > Bude líp, jen se toho musíme dožít,  
 > šetři silami, bratříčku!
 
@@ -41,3 +43,5 @@ Vidíš, Roberte, jsem ti věrná. I tehdy jsem byla – myslím tenkrát, jak
 Když jsem se zastavila, nestál daleko, ale otočil se a šel pryč. Chtěla jsem zakřičet sviňáku! ale hvízdalo mi v krku, a tak jsem zvedla kámen a hodila ho za ním. Dopadl směšně asi dva metry přede mne a chvilku se kutálel. Příliš pozdě jsem uvolnila prsty.
 
 Vlastně jsem ti tehdy byla nevěrná, Roberte, tehdy a od té doby pořád, kdykoliv jsem pod peřinou, stočená kolem svého panenství, a přivolávám si tu horkou chvilku, kdy mi mužská ruka sjíždí kolem pasu dolů, kolem pasu dolů, vracím ten pohyb, protože ho neumím dokončit.
+
+</section>

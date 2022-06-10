@@ -3,6 +3,8 @@ title: Středa
 contentType: prose
 ---
 
+<section>
+
 > Ostatně uvidíte, jak to skončí. Zvuky se vrátí  
 > do varhan a budoucnost zmizí v pochvě minula  
 > tak jako doposud vždycky.
@@ -80,3 +82,5 @@ Pojede tramvají. Měl ještě přednášku, nebo byl v pracovně u svého sto
 Vrátí se domů. Vyprázdní kapsy a vyndá seznam, vyndá i lísteček od ženy, kde bude: „Čedok!“ anebo „instalatér!“ zmačká jej, zahodí, otevře dveře, zavane k němu prudký pach barvy. U okna bude stát manželka v teplácích s průhledným šátečkem přes tvrdý účes, který ji dělá starší. Podívej, řekne a ukáže na židle, na stůl a na kredenc, nedbale natřené na bílo, podívej, řekne mu, že je to hezčí?
 
 A on bude stát mezi nábytkem, na kterém slzavě usychá barva. Potřebovalo to už jako sůl, vezmeš si kávu? řekne mu žena. A on řekne: kdepak je Dita? anebo: něco bych snědl, anebo: je to tak opravdu hezčí, povedlo se ti to. A pomalu si sedne ke dvěma hrnečkům s modrými motýly, Nicht Ende, Verwandlung nur, bude pod nimi napsáno.
+
+</section>

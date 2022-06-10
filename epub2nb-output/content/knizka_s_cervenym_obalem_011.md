@@ -3,6 +3,8 @@ title: Velké šuby-duby
 contentType: prose
 ---
 
+<section>
+
 > Často se stává, že se vrhnu vpřed jako moře  
 > na písečný břeh. Jenomže ještě nevím, co pak.  
 > Vrhnu se vpřed, vrátím se a znovu  
@@ -50,8 +52,14 @@ Nejdřív mě studily vlasy a potom záda a pak jsem kýchla. Nerozesmáli jsm
 
 !!–!–! !!–!–! pd-t-kch! pd-t-kch! vřava a vedro a rytmický dusot – !!–!, !!–!–!– horký dech se ve studených kapičkách kutálí z emailových stěn, !!–!–!, !!–!–!, tancuju jak bodnutá včelou, rum ze mě stoupá v bílých obláčcích, kluka někde ztrácím – it-voz-tventy-jírze-gou-tudej! sádžn-pepr-tačdz-bén-tuplej! – hopsám, skáču, jančím, třeštím – kdyby tak chtěl přijít Cába, vytřásla bych mu z těla tu jeho nečistou duši chemickou – smutné puntíčky Undatřina krimplenu se zvolna kladou na kápoše – oni jsou jako zvěch, jako zvěch, soudchuchu chediteli, říká a lasice, tygři a pardáli se uříceně vlní místností – jsme jedné krve ty i já – všechno se teprve stane – všechno je naše a pro nás – jsme prostě áčka a jsme si velmi sympatičtí – sádžn-pepr-lanly-hádklab-béééénd!!! (a fanfáry)
 
+</section>
+
+<section>
+
 Únava a žízeň. Jana zmizela s repetentem, Kamila se zelenými víčky se kolébá v náručí Tamtoho mezi zasněnými dvojicemi, pí-es-ajlavjů, jůů-jůů-jů – dva kluci spěšně odvádějí třetího, vedle dospělé dvojice dívka s dlouhými blond vlasy a se zarudlýma očima, dívá se před sebe a nechce odejít, chce tady zůstat a potom třeba říct, kdyby tě to zajímalo, tak už delší dobu chodim s Bubim z béčka, to jenom kdyby tě to zajímalo – jdu k ní a povídám, nebreč, takovejch kluků je plná Praha, pojedem si vybrat, tomuhle dáš normálně pěstí a já dám Cábovi a pak eště jednomu a eště jednomu a bude to komilfo – holka se odtahuje, to mě štve, myslím to s ní dobře, chci vstát, ale židle se se mnou zhoupla a polykám spoustu slin, zavírám oči a zas je otvírám, život je někdy stchašnej, zní zleva, mžourám do místnosti, příjemně se kolíbá, holka je pryč, asi se jí nelíbila moje ofina, chce se mi něco udělat. Říct někomu pravdu do očí anebo odjet, ano, odjedu do Prahy, co je plná kluků, co s nima budu chodit, dzej kamin tu tejk mí uej haha, říkám a hloupě se chechtám, po měkké podlaze vycházím ven –
 
 – zima a tma; vdechla jsem, že křiknu: jsem křižovatka všech skutečností! – ale chodník mi uklouznul, potvora, visím na plotě v bledém přísvitu luny – bledý přísvit – bledý student – komůrka v podkroví – sešitek veršů nákladem vlastním – a já se na vejšku nedostanu – a nikdo mě nemá rád – a neumím pít rum – duše chce vzhůru a tělo tíhne k zemi – zajímavá SŠ sport. typu se podrápala o drátěný plot – zhluboka dýchá – chodník se konečně zastavil – jenže takhle to nemůže skončit – takhle to přece neskončí – dneska se ještě musí něco stát – třeba někoho potkám a ještě dneska se zamiluju, začíná léto a ze země jsou divné věci – kolem uší bzučí molekuly lásky – honem, děti, kdopak jí víc nachytá? já, soudchuchu chediteli, a zamknu si ji pod postel, jelou sapmarín, a zamknu si ji pod postel –
 
 – stojí tulák starý… zazpíval Tamten odněkud ze tmy a blond soprán ho doprovází – zajímavá SŠ se shovívavě pousmála – od intru pomalu jdou dva stíny, – stchašně smutno, říká jeden – a zmenšují se opačným směrem, míjejí stín hubeného kluka, co volá šeptem Blááánííí do okna nahoře, měsíc dělá pavučiny skrze větve bez listí – v srdci háárááá slyším a myslím na veliké věci, které udělám, a hned zítra pojedu kreslit do zoo a ostříhám se jako Jane Seberg a myslím na toho kluka, co ho potkám v Praze, sakra, kde jsem tohleto četla?
+
+</section>

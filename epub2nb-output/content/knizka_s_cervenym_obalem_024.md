@@ -3,6 +3,8 @@ title: "Pohádka o\_šťastném konci"
 contentType: prose
 ---
 
+<section>
+
 > Maugham se zasměje. Pak mi dává nejcennější  
 > radu, jakou může mladý autor dostat:  
 > „Na konci tázací věty dávejte vždy otazník.  
@@ -27,3 +29,5 @@ Holčička pilně psala několik nocí a několik dní, a když to bylo hotovo
 Holčička radostně spěchala domů a dala se do práce. Jenomže ouha! Jak jen to udělat, aby život nekončil smrtí? Když umírá nejmíň tolik lidí, co se jich narodí? Holčička si lámala hlavu, lámala a lámala, až připsala babičce zlomenou nohu a umístila ji na lůžko. Jenomže zlomená noha ve sto sedmi letech není nadějné východisko, řekl jí Redaktor. Holčička tedy připsala pod hrušku zdatného lesníka, který – jda náhodou kolem – babičku zachytil: nepravděpodobné. Babička poté, co dopadla na zem, vstala a řekla moudrost: nepůvodní, pointa hapruje. Babička vydechla naposled, ale její duch hospodařil dál: spiritistické! Babička se změnila v bílou holubici a šířila po světě poselství míru: idealistické, násilně symbolistní, v nesouladu s ústřední postavou babičky. Babička padala opačným směrem díky náhlé změně gravitace: samoúčelná fikce, odtržená od života. Babička vůbec nedopadla: napořád padá a kleje a pokud nezemřela, kleje a padá dodnes (fatální).
 
 A tak se stalo, že knížka s červeným obalem nebyla nikdy dopsána.
+
+</section>

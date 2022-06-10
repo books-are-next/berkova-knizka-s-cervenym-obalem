@@ -3,6 +3,8 @@ title: Začátky
 contentType: prose
 ---
 
+<section>
+
 > Každá situace má smysl, jen ho najít.
 
 (B. Spinoza)
@@ -119,6 +121,12 @@ Viděla sem Kvačku, najela do mě tim kočárem, řekla a vzlykla a konečně
 
 Jéje, tak ono to věří na duchy, řekl a usmál se a hladil ji po vlasech a šeptal jí, ty malej blázínku, ty miláčku, ty moje opičko vyjukaná…
 
+</section>
+
+<section>
+
 Počkejte, řekl pán bez housky a sundal mi z police veliký kufr. Vyndala jsem z něj žlutou obálku a z ní jeden papír: Již staří Římané, bylo tam cyklostylem, a potom o disciplínách, ze kterých si můžu vybrat. To je zvláštní, řekla jsem nahlas, že na vysokých školách je ještě tělocvik.
 
 V zdravém těle zdravý duch! řekl pán bez housky, ukažte, dám vám to nahoru, ještě jsou orlové v bahně Evropy! řekl a zeširoka se na mě usmál; tak do školy? studovat? do Prahy? no, to máte před sebou nádherných pět let.
+
+</section>

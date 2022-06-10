@@ -3,6 +3,8 @@ title: Nazdar Ančo!
 contentType: prose
 ---
 
+<section>
+
 > Neklesejte na duchnu!
 
 (M. Huptych)
@@ -194,3 +196,5 @@ Dobrou noc, mami.
 Dobrou noc, babi.
 
 Dobrou noc.
+
+</section>

@@ -3,6 +3,8 @@ title: Kdybytí
 contentType: prose
 ---
 
+<section>
+
 > Pozorují nás včely? My je, to se rozumí,  
 > už dávno pozorujeme.
 
@@ -46,8 +48,14 @@ Vzduch tak zhoustl, že jsem ho musela po žvancích vyplivnout. Slunce se zača
 
 Šla jsem vyzvednout své bychy – byli navonění a ostříhaní na Kennedyho – seřadila jsem je a s nohama po kotníky v hlíně šla pomalu před nimi. Ale nešli jsme domů; šli jsme k hradbám a za ně, za Město, k polím, kde rostla nová generace.
 
+</section>
+
+<section>
+
 Tam jsem zůstala stát, už po kolena v hlíně, a klackem své bychy rozehnala. Rozutekli se do všech pěti stran, voňaví a ostříhaní na Kennedyho, a já potom kamenovala nebe a bičovala zemi a křičela jsem, ty kurvo! ty kurvo!
 
 Ne, tak to nebylo. Šla jsem domů. Uložila jsem bychy do postýlek a zhasla jim lampičky. A pak jsem šla taky spát. Přetáhla jsem si přes hlavu tátovu košili, co ji mám pod polštářem, vdechovala jsem její pach a myslela na milovníka, na toho u kůlny, co se usmívá, jako by plakal.
 
 A přišel.
+
+</section>
