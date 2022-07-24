@@ -1,0 +1,543 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Knížka s červeným",
+  "author": "Alexandra Berková",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "berkova-knizka-s-cervenym-357e57e",
+  "revision": "357e57e",
+  "readingOrder": [
+    "promo.html",
+    "knizka_s_cervenym_obalem_005.html",
+    "knizka_s_cervenym_obalem_006.html",
+    "knizka_s_cervenym_obalem_007.html",
+    "knizka_s_cervenym_obalem_008.html",
+    "knizka_s_cervenym_obalem_009.html",
+    "knizka_s_cervenym_obalem_010.html",
+    "knizka_s_cervenym_obalem_011.html",
+    "knizka_s_cervenym_obalem_012.html",
+    "knizka_s_cervenym_obalem_013.html",
+    "knizka_s_cervenym_obalem_014.html",
+    "knizka_s_cervenym_obalem_015.html",
+    "knizka_s_cervenym_obalem_016.html",
+    "knizka_s_cervenym_obalem_017.html",
+    "knizka_s_cervenym_obalem_018.html",
+    "knizka_s_cervenym_obalem_019.html",
+    "knizka_s_cervenym_obalem_020.html",
+    "knizka_s_cervenym_obalem_021.html",
+    "knizka_s_cervenym_obalem_022.html",
+    "knizka_s_cervenym_obalem_023.html",
+    "knizka_s_cervenym_obalem_024.html",
+    "knizka_s_cervenym_obalem_025.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jul 24 2022 21:38:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658698726394
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "knizka_s_cervenym_obalem_005.html",
+      "toc": []
+    },
+    {
+      "title": "Knížka s červeným",
+      "file": "knizka_s_cervenym_obalem_005.html",
+      "words": 34,
+      "chars": 167,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "knizka_s_cervenym_obalem_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Miniromán",
+      "file": "knizka_s_cervenym_obalem_006.html",
+      "words": 2038,
+      "chars": 10742,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 2,
+      "prev": "knizka_s_cervenym_obalem_005.html",
+      "next": "knizka_s_cervenym_obalem_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miniromán",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milostná",
+      "file": "knizka_s_cervenym_obalem_007.html",
+      "words": 1296,
+      "chars": 7059,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 3,
+      "prev": "knizka_s_cervenym_obalem_006.html",
+      "next": "knizka_s_cervenym_obalem_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milostná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nádraží",
+      "file": "knizka_s_cervenym_obalem_008.html",
+      "words": 909,
+      "chars": 5155,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 4,
+      "prev": "knizka_s_cervenym_obalem_007.html",
+      "next": "knizka_s_cervenym_obalem_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nádraží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bubi-blues",
+      "file": "knizka_s_cervenym_obalem_009.html",
+      "words": 1164,
+      "chars": 6282,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 5,
+      "prev": "knizka_s_cervenym_obalem_008.html",
+      "next": "knizka_s_cervenym_obalem_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bubi-blues",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nazdar Ančo!",
+      "file": "knizka_s_cervenym_obalem_010.html",
+      "words": 1695,
+      "chars": 9264,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 6,
+      "prev": "knizka_s_cervenym_obalem_009.html",
+      "next": "knizka_s_cervenym_obalem_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nazdar Ančo!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velké šuby-duby",
+      "file": "knizka_s_cervenym_obalem_011.html",
+      "words": 2371,
+      "chars": 13618,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 7,
+      "prev": "knizka_s_cervenym_obalem_010.html",
+      "next": "knizka_s_cervenym_obalem_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velké šuby-duby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Začátky",
+      "file": "knizka_s_cervenym_obalem_012.html",
+      "words": 1932,
+      "chars": 9915,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 8,
+      "prev": "knizka_s_cervenym_obalem_011.html",
+      "next": "knizka_s_cervenym_obalem_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Začátky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pavučina",
+      "file": "knizka_s_cervenym_obalem_013.html",
+      "words": 2881,
+      "chars": 15263,
+      "ideas": 120,
+      "role": "chapter",
+      "order": 9,
+      "prev": "knizka_s_cervenym_obalem_012.html",
+      "next": "knizka_s_cervenym_obalem_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pavučina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O malé bílé cedulce",
+      "file": "knizka_s_cervenym_obalem_014.html",
+      "words": 560,
+      "chars": 3179,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 10,
+      "prev": "knizka_s_cervenym_obalem_013.html",
+      "next": "knizka_s_cervenym_obalem_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O malé bílé cedulce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdybytí",
+      "file": "knizka_s_cervenym_obalem_015.html",
+      "words": 927,
+      "chars": 5199,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 11,
+      "prev": "knizka_s_cervenym_obalem_014.html",
+      "next": "knizka_s_cervenym_obalem_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdybytí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ráno",
+      "file": "knizka_s_cervenym_obalem_016.html",
+      "words": 668,
+      "chars": 3680,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 12,
+      "prev": "knizka_s_cervenym_obalem_015.html",
+      "next": "knizka_s_cervenym_obalem_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ráno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Středa",
+      "file": "knizka_s_cervenym_obalem_017.html",
+      "words": 1978,
+      "chars": 10879,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 13,
+      "prev": "knizka_s_cervenym_obalem_016.html",
+      "next": "knizka_s_cervenym_obalem_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Středa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Carpe diem",
+      "file": "knizka_s_cervenym_obalem_018.html",
+      "words": 4473,
+      "chars": 25440,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 14,
+      "prev": "knizka_s_cervenym_obalem_017.html",
+      "next": "knizka_s_cervenym_obalem_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Carpe diem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jeden z podvečerů",
+      "file": "knizka_s_cervenym_obalem_019.html",
+      "words": 1615,
+      "chars": 8964,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 15,
+      "prev": "knizka_s_cervenym_obalem_018.html",
+      "next": "knizka_s_cervenym_obalem_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jeden z podvečerů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tedy o lásce",
+      "file": "knizka_s_cervenym_obalem_020.html",
+      "words": 663,
+      "chars": 3396,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 16,
+      "prev": "knizka_s_cervenym_obalem_019.html",
+      "next": "knizka_s_cervenym_obalem_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tedy o lásce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pentameron",
+      "file": "knizka_s_cervenym_obalem_021.html",
+      "words": 1589,
+      "chars": 8868,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 17,
+      "prev": "knizka_s_cervenym_obalem_020.html",
+      "next": "knizka_s_cervenym_obalem_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pentameron",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Příběh první",
+              "id": "příběh-první",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Příběh druhý",
+              "id": "příběh-druhý",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Příběh třetí",
+              "id": "příběh-třetí",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Příběh čtvrtý",
+              "id": "příběh-čtvrtý",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Příběh pátý",
+              "id": "příběh-pátý",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Veselka",
+      "file": "knizka_s_cervenym_obalem_022.html",
+      "words": 1342,
+      "chars": 7003,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 18,
+      "prev": "knizka_s_cervenym_obalem_021.html",
+      "next": "knizka_s_cervenym_obalem_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Veselka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Funus",
+      "file": "knizka_s_cervenym_obalem_023.html",
+      "words": 2898,
+      "chars": 15799,
+      "ideas": 139,
+      "role": "chapter",
+      "order": 19,
+      "prev": "knizka_s_cervenym_obalem_022.html",
+      "next": "knizka_s_cervenym_obalem_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Funus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádka o šťastném konci",
+      "file": "knizka_s_cervenym_obalem_024.html",
+      "words": 1022,
+      "chars": 5899,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 20,
+      "prev": "knizka_s_cervenym_obalem_023.html",
+      "next": "knizka_s_cervenym_obalem_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádka o šťastném konci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Knížka s červeným",
+      "file": "knizka_s_cervenym_obalem_025.html",
+      "words": 21,
+      "chars": 119,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 21,
+      "prev": "knizka_s_cervenym_obalem_024.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 143,
+      "chars": 940,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "knizka_s_cervenym_obalem_025.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 32225,
+      "chars": 176867,
+      "ideas": 1032
+    },
+    "chapters": {
+      "words": 32076,
+      "chars": 175890,
+      "ideas": 1012
+    }
+  }
+}
