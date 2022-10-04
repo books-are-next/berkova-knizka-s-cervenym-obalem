@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-knizka-s-cervenym-7f3455c",
-  "revision": "7f3455c",
+  "identifier": "berkova-knizka-s-cervenym-b7a4de5",
+  "revision": "b7a4de5",
   "readingOrder": [
     "promo.html",
     "knizka_s_cervenym_obalem_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:34:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901287382
+    "date": "Tue Oct 04 2022 18:29:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908141918
   },
   "documents": [
     {
