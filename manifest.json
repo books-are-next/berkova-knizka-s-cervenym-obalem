@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-knizka-s-cervenym-1ee833d",
-  "revision": "1ee833d",
+  "identifier": "berkova-knizka-s-cervenym-03990ba",
+  "revision": "03990ba",
   "readingOrder": [
     "promo.html",
     "knizka_s_cervenym_obalem_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:56:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150969264
+    "date": "Mon Oct 10 2022 15:48:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416890117
   },
   "documents": [
     {
@@ -511,7 +511,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 141,
-      "chars": 940,
+      "chars": 941,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -531,7 +531,7 @@
   "totals": {
     "all": {
       "words": 32223,
-      "chars": 176867,
+      "chars": 176868,
       "ideas": 1030
     },
     "chapters": {
