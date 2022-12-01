@@ -2,7 +2,7 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: cs
+languageCode: en
 meta:
   languageCode: cs
   title: Knížka s červeným
