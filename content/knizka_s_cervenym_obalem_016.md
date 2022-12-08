@@ -8,9 +8,9 @@ contentType: prose
 > Ona zvláštní bláhovost člověka, který sám sobě  
 > dovoluje a chce věřit, že touží po pravdě, zatímco  
 > žádá od tohoto světa lásku.
-
-(A. Camus)
-
+> 
+> (A. Camus)  
+  
 Prázdnou a strnulou ulicí šel zvolna kráčivec; nesl si tašku a hůl. V té tašce měl židli, tu hůl měl proti civilům, kteří na něj civěli v kruzích užších a užších, když si chtěl posedět. Kráčivec pomalu obcházel spící ježdíky, skrčené na malých parcelkách, obtažených bíle, a oni jej nechali projít. Pak skončilo svítání.
 
 </section>

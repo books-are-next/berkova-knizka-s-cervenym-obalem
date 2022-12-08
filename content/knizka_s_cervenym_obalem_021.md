@@ -10,9 +10,9 @@ contentType: prose
 > a naprosté beznaději. Druhá k úplnému vyhynutí.  
 > Doufejme, že budeme dost moudří  
 > a vybereme si správně.
-
-(W. Allen)
-
+>
+> (W. Allen)  
+  
 Cítím se lépe. Sladím umělými sladidly, platím umělými platidly a je mi lépe. Den ze dne je mi lépe a lépe. Jen dobře mi pořád není.
 
 (Včera byl zadržen třiatřicetiletý N. N. při nelegálním pokusu o přechod státních hranic. Zadržený byl již v minulosti několikrát trestán za pokus o nelegální přechod státních hranic.

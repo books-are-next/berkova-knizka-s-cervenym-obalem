@@ -9,9 +9,9 @@ contentType: prose
 > na písečný břeh. Jenomže ještě nevím, co pak.  
 > Vrhnu se vpřed, vrátím se a znovu  
 > se vrhnu vpřed.
-
-(H. Michaux)
-
+> 
+> (H. Michaux)  
+  
 Holky já vypadám strašně, ’sim tě, ’ bych měla říkat já, ’divej ty vlasy, sedíme tu jak slepice na hřadě, fakt jak slepice, to tys tak hnala, tak poďte něco dělat, helehede Undatra! žová!!! Počkej, až ti bude stopět, dobrý večer.
 
 Dobchý večech! Undatra má nové šaty a nové zuby a švy nakřivo. Já mám u nohy láhev rumu. Jídelna má: třiadvacet umakartových stolků se čtyřikrát třiadvaceti umakartovými židličkami se čtyřikrát čtyřikrát třiadvaceti kovovými nožičkami. U jedné mám tu láhev rumu. Jídelna má: zelené emailové stěny (to kdybychom po sobě házely knedlíky, tak aby se to umylo) a šedivou betonovou podlahu (to kdybychom po sobě lily polívku, tak aby se to umylo) a velká zamřížovaná okna (to kdyby sem chtěl vlézt zloděj a odnést nám třeba příbor, tak aby neodnesl). Těmi zamřížovanými okny je vidět na betonový chodníček k internátu, v němž jsme internovány; ten chodníček je prudce osvětlen reflektorem ze střechy (to kdyby ten zloděj chtěl použít hlavního vchodu, tak abychom ho viděly). Ještě bych stihla kino. Jenže mám u nohy tu láhev rumu.

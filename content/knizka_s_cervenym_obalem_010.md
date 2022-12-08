@@ -6,9 +6,9 @@ contentType: prose
 <section>
 
 > Neklesejte na duchnu!
-
-(M. Huptych)
-
+> 
+> (M. Huptych)  
+  
 Ahój! volala Jana.
 
 Ahój! volala jsem.

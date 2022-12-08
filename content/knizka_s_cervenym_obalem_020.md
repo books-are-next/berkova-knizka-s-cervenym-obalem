@@ -9,9 +9,9 @@ contentType: prose
 > a živý, ten si výská;  
 > ten líže med, ten pelyněk  
 > a někdo kudlu píská
-
-(W. Shakespeare)
-
+> 
+> (W. Shakespeare)  
+  
 – – – zas jsem se ostříhala na půl sirky
 
 a představuju si nás v posteli

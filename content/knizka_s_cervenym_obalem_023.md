@@ -7,9 +7,9 @@ contentType: prose
 
 > Na hřbitovech leží plno lidí,  
 > bez nichž svět nemohl být!
-
-(H. Böll)
-
+> 
+> (H. Böll)  
+  
 – – – to je zvláštní, podivil se člověk, jeden ani pořádně nezačal – a už aby končil, protože je mrtvej…
 
 – to si řekl a duše jeho opustila tělo – chvíli se ještě potloukala kolem, připravena se vrátit, kdyby něco – – kdyby třeba odstranili ten žvanec, co mu ucpal srdce –

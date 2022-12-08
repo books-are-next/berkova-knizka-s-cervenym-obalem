@@ -7,9 +7,9 @@ contentType: prose
 
 > Bude líp, jen se toho musíme dožít,  
 > šetři silami, bratříčku!
-
-(R. Kipling)
-
+> 
+> (R. Kipling)  
+  
 Já vím, že neexistuješ, Roberte, nech mě být.
 
 Ležím tu ztěžklá v peřinách a dívám se oknem na Manku. A Manka sedí na osice a dívá se na mne. Nebe je šedé. Říká se ocelově šedé. Možná, že ocel takhle opravdu vypadá. Nevím. Stejně jako nevím, jak vypadá „perfektní flanelový oblek“. Představuju si ho jako pyžamo. Ale tatínek měl kdysi flanelový oblek, mluvilo se o tom. Už se na to nepamatuju.

@@ -6,9 +6,9 @@ contentType: prose
 <section>
 
 > Zemře smrtí den?
-
-(J. Navrátil)
-
+> 
+> (J. Navrátil)  
+  
 Plesk bosých nohou na dně prázdné kašny a bití zvonu odněkud a skřípění kamínků na cestě, jak se pod nohama rozestupují: lázeň­ští hosté se po nich scházejí, sedají do lavic, potichu hovoří, kašlou;
 
 suchý muž, co chodí kolem, se velkými řídkými hnědými zuby široce usmál a rozmáchlým gestem zdraví někoho v publiku;

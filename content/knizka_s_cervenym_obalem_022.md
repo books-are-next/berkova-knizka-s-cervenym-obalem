@@ -7,9 +7,9 @@ contentType: prose
 
 > Podivné záminky našich cest jsou tanečními  
 > kroky samotného Boha.
-
-(K. Vonnegut jr.)
-
+> 
+> (K. Vonnegut jr.)  
+  
 – – a než se panna nevěsta vrátí, předčítá stařenka jejímu synovi z černé kroniky: „zdivočelý Pražák plení zahrádky.“
 
 Babi, řekl chlapec, já až umřu, tak se pokusím otevřít oči. – A ty? –

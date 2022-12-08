@@ -9,9 +9,9 @@ contentType: prose
 > radu, jakou může mladý autor dostat:  
 > „Na konci tázací věty dávejte vždy otazník.  
 > Nevěřil byste, jak je to účinné.“
-
-(W. Allen)
-
+> 
+> (W. Allen)  
+  
 Byla jednou jedna Holčička, a ta žila v malé chaloupce se svou babičkou. Jedly, spaly, hovadům poklízely a dobře by se byly měly, nebýt té jedné věci: Holčička byla posedlá představou, že musí něco sdělit lidstvu; toužila napsat knihu s červeným obalem. A tak psala a psala a psala; psala příběhy o chudých, ale hodných slečnách, co přeberou ženicha slečnám zlým a bohatým, psala o moudrých stařenkách s bílou loktuškou na hlavě (když si byla zjistila, že se loktuška neváže v pase), psala o statečných chlapech s mozolnatýma dlaněma, co pijou kafe z otlučených hrnků bez ucha a dlouze a temně mlčí – psala o všem, o čem četla. Vyprdni se na to, říkávala jí babička, když vidlemi přehazovala stohy papírů v její komůrce, ale Holčička psala a psala, a když toho měla plnou nůši, nasedla na moped a pílila do Města.
 
 Ve Městě byla Redakce a v ní přebýval Redaktor. Hrábl do papírů, nad některými se zastavil, posunul brýle, zavrtěl hlavou a listoval dál. Pak řekl Hm a vrátil nůši Holčičce. Chtěla bych vydat knížku s červeným obalem, řekla mu Holčička. Hm, řekl Redaktor, jak jenom bych vám to – – – já to řeknu rovnou: tak takhle ne. Je to moc – – – neživé, moc schematické. Schází tomu ššťáva, není v tom cítit tenhleten – – – tep současnosti, žživot, chápete? žžživot! řekl a přimhouřil oči a zaťal pěst.

@@ -6,9 +6,9 @@ contentType: prose
 <section>
 
 > Ulovená ryba myslí na vodu, jak jen může.
-
-(H. Michaux)
-
+> 
+> (H. Michaux)  
+  
 (Krátké mokré vlasy. Slámové vlasy. Škubnutí svalu pod hnědou kůží.)
 
 Na co myslíš?

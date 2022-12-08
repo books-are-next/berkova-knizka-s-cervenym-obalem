@@ -9,9 +9,9 @@ contentType: prose
 > Ty jsi zamoučená  
 > a moje tváře jsou pomazány sazemi,  
 > ale buď se mnou, ty, nebo umřu a bude mi smutno.
-
-(I. Wernisch)
-
+>
+> (I. Wernisch)  
+  
 „Milý příteli – přítelkyně!
 
 Toto řetězové spojení vzniklo ve Venezuele! Vyhotov 20 opisů a čekej na štěstí! Štěstí příde do 9 dnů!

@@ -6,9 +6,9 @@ contentType: prose
 <section>
 
 > Každá situace má smysl, jen ho najít.
-
-(B. Spinoza)
-
+> 
+> (B. Spinoza)  
+  
 Hele a budeme si psát, poď si slíbit, že si budeme psát.
 
 V kolik to jede?
