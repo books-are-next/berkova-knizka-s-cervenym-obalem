@@ -6,9 +6,9 @@ contentType: prose
 <section>
 
 > Příroda nám klade do cesty naši tupost jako past.
-
-(G. Greene)
-
+>
+> (G. Greene)  
+  
 Když se táta s mámou potkali, řekli si, to je doba, co jsme se neviděli, co pořád děláš. A máma řekla, budu se asi muset vdávat. A táta řekl, proč muset a proč asi, a máma řekla, muset, protože nechci, a asi, protože to asi udělám. A táta řekl, manželství je překonaná instituce, pojď se mnou do kina. A máma řekla, seš moc hodnej, ale nemám čas. Tak šli.
 
 A za týden máma řekla, honem poď na dvě deci, já jsem strašně zbabělá a schovávám se před Karlem a sama nevydržím, jak jsem zbabělá.
